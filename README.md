@@ -9,11 +9,11 @@ This is my first website created using HTML and CSS. It includes two pages: a Ho
 
 ## Live Website
 
-https://your-username.github.io/your-repo-name/
+
 
 ## GitHub Repository
 
-https://github.com/your-username/your-repo-name
+
 
 ---
 
