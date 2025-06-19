@@ -12,7 +12,7 @@ This is my first website created using HTML and CSS. It includes two pages: a Ho
 
 
 ## GitHub Repository
-
+https://github.com/Reshmashameem31/portfolio-simple-website
 
 
 ---
